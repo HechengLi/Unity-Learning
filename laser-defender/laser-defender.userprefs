@@ -1,8 +1,12 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Entities\Enemy\EnemySpawner.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\MusicPlayer.cs">
     <Files>
-      <File FileName="Assets\Entities\Enemy\EnemySpawner.cs" Line="10" Column="38" />
+      <File FileName="Assets\Entities\Player\ShipMovement.cs" Line="61" Column="4" />
+      <File FileName="Assets\Entities\Enemy\EnemyBehaviour.cs" Line="1" Column="1" />
+      <File FileName="Assets\Entities\Enemy\EnemySpawner.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\LevelManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\MusicPlayer.cs" Line="23" Column="18" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
