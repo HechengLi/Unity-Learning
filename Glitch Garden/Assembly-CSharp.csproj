@@ -46,8 +46,27 @@
 	</Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\Scripts\Button.cs" />
+     <Compile Include="Assets\Scripts\DefenderSpawner.cs" />
+     <Compile Include="Assets\Scripts\FadeIn.cs" />
+     <Compile Include="Assets\Scripts\GameTimer.cs" />
+     <Compile Include="Assets\Scripts\Health.cs" />
      <Compile Include="Assets\Scripts\LevelManager.cs" />
+     <Compile Include="Assets\Scripts\Lizard.cs" />
+     <Compile Include="Assets\Scripts\LoseCollider.cs" />
      <Compile Include="Assets\Scripts\MusicManager.cs" />
+     <Compile Include="Assets\Scripts\OptionController.cs" />
+     <Compile Include="Assets\Scripts\PlayerPrefsManager.cs" />
+     <Compile Include="Assets\Scripts\Projectile.cs" />
+     <Compile Include="Assets\Scripts\SetStartVolume.cs" />
+     <Compile Include="Assets\Scripts\Shooter.cs" />
+     <Compile Include="Assets\Scripts\Spawner.cs" />
+     <Compile Include="Assets\Scripts\StarDisplay.cs" />
+     <Compile Include="Assets\Scripts\Stone.cs" />
+     <Compile Include="Assets\Scripts\attacker.cs" />
+     <Compile Include="Assets\Scripts\defender.cs" />
+     <Compile Include="Assets\Scripts\fox.cs" />
+     <Compile Include="Assets\Scripts\shredder.cs" />
  <Reference Include="UnityEngine.UI">
  <HintPath>E:/Program Files (x86)/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/4.6.9/Standalone/UnityEngine.UI.dll</HintPath>
  </Reference>

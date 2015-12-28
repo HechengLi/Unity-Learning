@@ -1,8 +1,9 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace />
-  <MonoDevelop.Ide.Workbench ActiveDocument="..\Glitch Garden\Assets\MusicManager.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\Glitch Garden\Assets\Scripts\Projectile.cs">
     <Files>
-      <File FileName="..\Glitch Garden\Assets\MusicManager.cs" Line="30" Column="23" />
+      <File FileName="..\Glitch Garden\Assets\Scripts\Shooter.cs" Line="10" Column="62" />
+      <File FileName="..\Glitch Garden\Assets\Scripts\Projectile.cs" Line="17" Column="2" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
